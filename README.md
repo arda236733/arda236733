@@ -147,11 +147,8 @@
   <h3><b>Find me on</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/arda-anıl-acar/" target="_blank">
-  <img align="center" alt="Arda Anıl Acar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:mrardaacar@gmail.com" >
-  <img align="center" alt="Arda Anıl Acar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:mrarda1983@hotmail.com" >
+  <img align="center" alt="Arda | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
   
