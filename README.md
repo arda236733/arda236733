@@ -1,5 +1,5 @@
 
-  ## I'm Arda Anıl Acar.
+  ## I'm Arda.
 
 ### &nbsp;About Me 
 
