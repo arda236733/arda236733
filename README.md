@@ -4,7 +4,7 @@
 ### &nbsp;About Me 
 
 - &nbsp; I'm a self-taught roboticist, programmer and 3D designer
-- &nbsp; Currently participating in Teknofest and First Robotics League, participated in Teknofest 2022 as a finalist
+- &nbsp; Currently participating in Teknofest and First Robotics Competition, participated in Teknofest 2022 as a finalist
 
 
 <br>
