@@ -33,26 +33,16 @@
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-
-</p>
-<br>
-
-### Tools and Languages I am learning
-
-<br>
-
-<p align="center">
+  
+  <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 &nbsp
 
 </p>
 
-
+</p>
 <br>
-
-
-
 
 
 
@@ -115,33 +105,6 @@
     </a>
 </div>
 </p>
-
-<br>
-
- <hr>
-
-
-
-
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arda236733&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
- 
- <hr>
- 
- <br>
 
   <div align="center">
   <h3><b>Find me on</b></h3>
